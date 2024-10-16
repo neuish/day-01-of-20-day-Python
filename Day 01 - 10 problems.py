@@ -1,4 +1,4 @@
-
+#welcome to day 01 od 20 day Python Challenge where I will be learning different concepts of python from the begining and posting here continuously.
 
 #1. Write a program that prints your name, age, and favorite hobby.
 
